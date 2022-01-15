@@ -1,0 +1,23 @@
+{
+  "data": {
+    "sumRewards": {
+      "nodes": [
+        {
+          "blockheight": 6000455,
+          "id": "11273kdRqdfBGL9isPvpUd32ym7Pdwy4WVFHxuKZE79EhNDy",
+          "totalReward": "50244188967"
+        },
+        {
+          "blockheight": 6000455,
+          "id": "121t1sKuVp84pt5WSA6muzxE2ztrpyemRVkvqfNCdatBUtfu",
+          "totalReward": "233128735"
+        },
+        {
+          "blockheight": 6000455,
+          "id": "124XiAZjTbTNxmABq1ezg7AZysMokGuB5Qnf4mQmmEcUw7jK",
+          "totalReward": "43446738911"
+        }
+      ]
+    }
+  }
+}

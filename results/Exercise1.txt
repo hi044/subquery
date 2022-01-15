@@ -1,0 +1,26 @@
+{
+  "data": {
+    "stakingRewards": {
+      "nodes": [
+        {
+          "blockHeight": 8000387,
+          "account": "156Q49XRvxprSht1amYnY9oyjbheiubTmphkbs2XQ5tFWvfg",
+          "date": "2021-12-05T11:57:06.001",
+          "balance": "6918194240"
+        },
+        {
+          "blockHeight": 8000387,
+          "account": "153abKSw64PyUVZbhUASqynGp9pjr6iDFDYXxqN9j8DMmMFC",
+          "date": "2021-12-05T11:57:06.001",
+          "balance": "6812538018"
+        },
+        {
+          "blockHeight": 8000387,
+          "account": "15YTpkJgj3cDimQjyYFoD4RQcQxVBL3q54qaunRaJ1V3ak7q",
+          "date": "2021-12-05T11:57:06.001",
+          "balance": "6781075724"
+        }
+      ]
+    }
+  }
+}
